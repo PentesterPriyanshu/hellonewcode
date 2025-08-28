@@ -1,0 +1,9 @@
+google-generativeai
+transformers
+torch
+sentence-transformers
+textstat
+pandas
+numpy
+scikit-learn
+nltk
