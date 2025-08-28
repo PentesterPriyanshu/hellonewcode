@@ -1,7 +1,8 @@
 
 
 ## Overview
-This project transforms **harsh or critical code review comments** into **empathetic, constructive feedback**.  
+This project transforms **harsh or critical code review comments** into **empathetic, constructive feedback**.
+You can run this on kaggle or colab the.ipynb file 
 It uses:
 - **Traditional NLP (Sentiment + Rule-based Enhancements)**
 - **Optional AI-enhanced mode (Gemini / Hugging Face Transformers)**
